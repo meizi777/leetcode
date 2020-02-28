@@ -1,7 +1,6 @@
 1:Brute Force
 =====
 Time complexity: O(n^2)  
-
 Space complexity
 ```
 class Solution {
