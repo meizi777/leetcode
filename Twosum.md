@@ -2,6 +2,7 @@
 =====
 Time complexity: O(n^2)
 Space complexity
+```
 class Solution {
     public int[] twoSum(int[] nums, int target) {
         for(int i = 0; i < nums.length;i++){
@@ -14,7 +15,7 @@ class Solution {
         return new int[]{};
     }
 }
-
+```
 2.Hash Table
 Trade space with time:
 Time complexity: O(n)
